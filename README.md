@@ -20,6 +20,8 @@
 
  	
  	
+ 	bug fix:http://blog.csdn.net/fireworkburn/article/details/45195251 
+ 	
  
 
 
